@@ -12,7 +12,6 @@ import org.springframework.lang.Nullable;
 @Setter
 @Configuration
 public class CasClientProperties {
-
     /**
      * 是否开启单点登录
      */
